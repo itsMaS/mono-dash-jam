@@ -16,11 +16,15 @@ public class GameEnd : MonoBehaviour
             PlayerPrefs.SetInt("GameBeaten", 1);
         }
     }
+    private void Start()
+    {
+        HighscoreManager.instance.StopTimer();
+    }
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            SceneManager.LoadScene(0);
+            HighscoreManager.instance.Register();
         }
     }
 }

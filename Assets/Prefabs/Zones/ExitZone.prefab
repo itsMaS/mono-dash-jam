@@ -7,26 +7,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1571841941938454191, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
-        type: 3}
-      propertyPath: m_Name
-      value: ExitZone
-      objectReference: {fileID: 0}
-    - target: {fileID: 1571841941938454182, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
-        type: 3}
-      propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.105820596
-      objectReference: {fileID: 0}
-    - target: {fileID: 1571841941938454182, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
-        type: 3}
-      propertyPath: InitialModule.startColor.maxColor.g
-      value: 0.15530337
-      objectReference: {fileID: 0}
-    - target: {fileID: 1571841941938454182, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
-        type: 3}
-      propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.7735849
-      objectReference: {fileID: 0}
     - target: {fileID: 1571841941938454177, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -211,6 +191,26 @@ PrefabInstance:
         type: 3}
       propertyPath: FillColor.b
       value: 0.8113208
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571841941938454182, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.105820596
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571841941938454182, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.15530337
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571841941938454182, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.7735849
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571841941938454191, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
+        type: 3}
+      propertyPath: m_Name
+      value: ExitZone
       objectReference: {fileID: 0}
     - target: {fileID: 1571841943573707196, guid: 74ab1d0d3f1fb9244ad4cac7dd30625b,
         type: 3}
